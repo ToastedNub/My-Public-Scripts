@@ -93,6 +93,7 @@
  - Upscale & Enhance any Video, Gif, or Image by 8x **(technically 4x, but it extends 4x for width and height, so a 1080p video will be 8)**
  - Forces media to be 60fps, if anything is under that, it will interpolate (generate) new frames with the ESRGAN AI model and FFMPEG
  - Will be updated soon with RIFE for Interpolation
+ - **[THE FILES WERE TOO BIG TO UPLOAD HERE, CLICK HERE TO DOWNLOAD THE GUALITY ENHANCER](https://drive.google.com/file/d/1vVruBJdtnOgad96fE3QI8HCOuFpSJjsQ/view?usp=sharing)**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
