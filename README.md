@@ -108,3 +108,9 @@
  - An alternative (and sometimes faster) way of using windows file explorer
  - The Console will ask you for a name
  - It will create a .txt file listing all files on your pc that include that name and their directories
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# MP4 Converter
+ - Turns any video into an mp4
+ - Requires FFMPEG
