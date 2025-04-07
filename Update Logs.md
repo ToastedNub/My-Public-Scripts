@@ -1,3 +1,10 @@
+# Updated Quality Enhancer 4/6/2025
+ - Updated requirements and build file for extra compatibility
+ - Added optimizations for video upscaling
+ - You can close the script during a video upscale, it will continue where it left off next time
+ - Empty script to clear frames and upscaled frames folders
+ - Easier ESRGAN layout (again)
+
 # Updated Quality Enhancer 4/4/2025
  - Runs faster
  - Optimized for low end systems (you do have to mess with the scripts to make them stable on lower end systems)
