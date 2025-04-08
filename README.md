@@ -129,3 +129,9 @@
 
 # FFMPEG Installed
  - Automatically installs ffmpeg to your system path
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Cuda Installer
+ - Automatically downloads and installs the cuda version for your gpu
+ - If there are no compatible versions it will fall back to cpu
