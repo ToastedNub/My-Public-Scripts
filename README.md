@@ -124,3 +124,8 @@
  - Splits videos into seperate frames, and audio
  - you can do whatever you want to the frames/audio, or put your own in the specified folder
  - Merges frames and audio back into an mp4
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# FFMPEG Installed
+ - Automatically installs ffmpeg to your system path
