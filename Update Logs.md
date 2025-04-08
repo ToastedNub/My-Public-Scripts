@@ -1,3 +1,7 @@
+# Added Cuda Installer & FFMPEG Installer 4/8/2025
+ - Added Cuda Installer (automatic)
+ - Added FFMPEG Installer (automatic)
+
 # Updated Quality Enhancer 4/6/2025
  - Updated requirements and build file for extra compatibility
  - Added optimizations for video upscaling
