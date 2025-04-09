@@ -1,5 +1,6 @@
 # My-Public-Scripts
 [VIEW THE UPDATE LOGS HERE](https://github.com/ToastedNub/My-Public-Scripts/blob/main/Update%20Logs.md)
+
 [GET HELP HERE](https://discord.gg/eUBfTeFYvB)
 
 **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
