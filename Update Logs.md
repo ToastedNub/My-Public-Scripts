@@ -1,3 +1,7 @@
+# Added Adaptive Scaler 4/10/2025
+ - Added Adaptive Scaler script
+ - Can scale Videos to any specified resolution
+
 # Added Cuda Installer & FFMPEG Installer 4/8/2025
  - Added Cuda Installer (automatic)
  - Added FFMPEG Installer (automatic)
