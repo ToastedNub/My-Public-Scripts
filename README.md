@@ -137,3 +137,9 @@
 # Cuda Installer
  - Automatically downloads and installs the cuda version for your gpu
  - If there are no compatible versions it will fall back to cpu
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Adaptive Scaler
+ - Scale videos to the size of your choice
+ - Does not enhance because it does not use AI
