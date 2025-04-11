@@ -1,3 +1,9 @@
+# Updated Quality Enhancer 4/11/2025
+ - Updated video scripts
+ - Automatic cleanup
+ - Automatic transfer between videos
+ - Can handle multiple videos in MEDIA folder for mass upscaling
+
 # Added Adaptive Scaler 4/10/2025
  - Added Adaptive Scaler script
  - Can scale Videos to any specified resolution
