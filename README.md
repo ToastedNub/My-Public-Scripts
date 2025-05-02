@@ -143,3 +143,10 @@
 # Adaptive Scaler
  - Scale videos to the size of your choice
  - Does not enhance because it does not use AI
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Discord Cleaner
+ - Will clean your server for you
+ - Deletes any messages that include the words you specify in the script
+ - Very easy to change
