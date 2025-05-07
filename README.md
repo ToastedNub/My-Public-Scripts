@@ -15,7 +15,7 @@
 # YouTube Downloader
  - The Console will ask you for a YouTube Video URL
  - Then the Console will ask you if you want to download the video as an mp3, or an mp4
- - The Console then downloads the video in the format you requested (mp4 will give you an mkv, not an mp4)
+ - The Console then downloads the video in the format you requested
  - The Console will close when its finished
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
