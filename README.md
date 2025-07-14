@@ -23,7 +23,7 @@
 
 # Simple AI ChatBot
  - A very simple ChatGPT AI ChatBot that anyone can mess with
- - This runs on a ChatGPT API, so it is not free, but it is very cheap
+ - This runs on a ChatGPT API, so it is not free, but it is very cheap (abt $10 CAD for almost 1000 messages)
  - Very easy to set up, you need to intergrate your own **Bot Token**, and your own **API Key**
  - Does not need a cusom database, but will not swear or say anything against ChatGPT ruleset
  - Only online while you have the Console for the script open
