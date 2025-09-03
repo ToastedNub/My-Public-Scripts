@@ -151,3 +151,10 @@
  - Will clean your server for you
  - Deletes any messages that include the words you specify in the script
  - Very easy to change
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Audio Enhancer
+ - Splits audio into 4 seperate stems (bass, drums, other, vocals)
+ - Enhances audio, but leaves the stems unmerged incase of bugs
+ - Script installs most dependencies on first run
