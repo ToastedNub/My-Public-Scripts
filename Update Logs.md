@@ -1,5 +1,7 @@
+# Added Audio Enhancer
+ - Splits audio into 4 stems and enhances it
+
 # Added Discord Cleaner 5/2/2025
- - Added a Discord Cleaner
  - Cleand your server to abide by Discord TOS to better protect your members and your server
 
 # Updated Quality Enhancer 4/11/2025
