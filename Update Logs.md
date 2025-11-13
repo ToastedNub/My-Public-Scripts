@@ -1,3 +1,7 @@
+# Updated Quality Enhancer 11/13/25
+ - Added more scripts for ease of use
+ - Changed start files, ther is only 1 now that asks what mode you want to run
+
 # Added Audio Enhancer 9/3/25
  - Splits audio into 4 stems and enhances it
 
