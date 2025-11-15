@@ -13,7 +13,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Quality AI Enhancer (Videos & Images) (ESRGAN)
+# Quality AI Enhancer
  - Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
  - **[Download v1.9](https://drive.google.com/file/d/1f8Myq8e7xgYMKbWF0vIcWvJylr2oy1kQ/view?usp=sharing)**
 
