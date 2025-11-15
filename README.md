@@ -10,7 +10,6 @@
  - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
  - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM**
  -  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
- - Join **[THIS SERVER](https://discord.gg/eUBfTeFYvB)** for Extra Help!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
