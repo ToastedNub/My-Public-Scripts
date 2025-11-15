@@ -14,9 +14,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Quality AI Enhancer (Videos & Images) (ESRGAN)
- - Upscale & Enhance any Video, Gif, or Image by 8x **(technically 4x, but it extends 4x for width and height, so a 1080p video will be 8k)**
- - Forces media to be 60fps, if anything is under that, it will interpolate (generate) new frames with the ESRGAN AI model and FFMPEG
- - Will be updated soon with RIFE for Interpolation
+ - Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
  - **[THE FILES WERE TOO BIG TO UPLOAD HERE, CLICK HERE TO DOWNLOAD THE GUALITY ENHANCER](https://drive.google.com/file/d/1f8Myq8e7xgYMKbWF0vIcWvJylr2oy1kQ/view?usp=sharing)** V1.6
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
