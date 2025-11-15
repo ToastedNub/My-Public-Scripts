@@ -1,3 +1,7 @@
+# Updated page 11/15/2025
+ - More user friendly repo
+ - More obvious download locations
+
 # Added Simple Video Editor
  - Easy way to trim videos if you cant get an editor
 
