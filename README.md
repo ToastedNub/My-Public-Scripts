@@ -8,8 +8,8 @@
  - All of these scripts use **[PYTHON](https://www.python.org/downloads/)** and you need Python installed to PATH - **[PYTHON PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=H7iqfv5dzRY)**
  - A lot of these scripts use **[FFMPEG](https://ffmpeg.org/download.html)** and you need Ffmpeg installed to PATH - **[FFMPEG PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=JR36oH35Fgg)**
  - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
- - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM, THE START INCLUDE THE DEPENDENCIES SO YOU DO NOT NEED TO INSTALL ANY REQUIREMENTS**
- - Join **[THIS SERVER](https://discord.gg/M44Ar9qYNZ)** for Extra Help!
+ - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM**
+ - Join **[THIS SERVER](https://discord.gg/eUBfTeFYvB)** for Extra Help!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
