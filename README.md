@@ -1,6 +1,6 @@
 # My-Public-Scripts
- - **[VIEW THE UPDATE LOGS HERE](https://github.com/ToastedNub/My-Public-Scripts/blob/main/Update%20Logs.md)**
- - **[GET HELP HERE](https://discord.gg/eUBfTeFYvB)**
+ - **[UPDATE LOGS](https://github.com/ToastedNub/My-Public-Scripts/blob/main/Update%20Logs.md)**
+ - **[GET HELP](https://discord.gg/eUBfTeFYvB)**
  - **[REQUEST A SCRIPT](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
