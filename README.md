@@ -1,6 +1,7 @@
 # My-Public-Scripts
  - [VIEW THE UPDATE LOGS HERE](https://github.com/ToastedNub/My-Public-Scripts/blob/main/Update%20Logs.md)
  - [GET HELP HERE](https://discord.gg/eUBfTeFYvB)
+ - [Request a Script](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
  - All the scripts are easy to read (assuming you understand Python)
@@ -9,7 +10,6 @@
  - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
  - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM**
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
- - **[Request a Script](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Quality Enhancer
  - Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
