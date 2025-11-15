@@ -13,11 +13,11 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# YouTube Downloader
- - The Console will ask you for a YouTube Video URL
- - Then the Console will ask you if you want to download the video as an mp3, or an mp4
- - The Console then downloads the video in the format you requested
- - The Console will close when its finished
+# Quality AI Enhancer (Videos & Images) (ESRGAN)
+ - Upscale & Enhance any Video, Gif, or Image by 8x **(technically 4x, but it extends 4x for width and height, so a 1080p video will be 8k)**
+ - Forces media to be 60fps, if anything is under that, it will interpolate (generate) new frames with the ESRGAN AI model and FFMPEG
+ - Will be updated soon with RIFE for Interpolation
+ - **[THE FILES WERE TOO BIG TO UPLOAD HERE, CLICK HERE TO DOWNLOAD THE GUALITY ENHANCER](https://drive.google.com/file/d/1f8Myq8e7xgYMKbWF0vIcWvJylr2oy1kQ/view?usp=sharing)** V1.6
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,50 +30,10 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# ASCII Converter (LIVE)
+# ASCII Converters
+# Includes Basic, Colored, Large, Live.
  - This will project your **Main Monitor Display** in real time in the Windows Console
  - Put the console on a monitor that is not your main, and press **F11** to full screen (its meant to work in fullscreen 1080p)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# ASCII Converter (BLACK & WHITE)
- - This will take any video in the script directory that is named **"video"** and is an **mp4 file** (in the same folder that the script is in)
- - The Console will start to process the video frames, and give you a progress % as an estimated time remaining
- - You need to press **F11** once the Console opens, this is meant to work in full screen
- - **WORKS BEST WITH 1080P VIDEOS**
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# ASCII Converter (COLORED)
- - This will take any video in the script directory that is named **"video"** and is an **mp4 file** (in the same folder that the script is in)
- - The Console will start to process the video frames, and give you a progress % as an estimated time remaining
- - You need to press **F11** once the Console opens, this is meant to work in full screen
- - **WORKS BEST WITH 1080P VIDEOS**
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# ASCII Converter (BIG, 64GB+ RAM NEEDED)
- - This will take any video in the script directory that is named **"video"** and is an **mp4 file** (in the same folder that the script is in)
- - The Console will start to process the video frames, and give you a progress % as an estimated time remaining
- - The video playback will be in **PyGame** instead of the **Windows Console**, this lets the characters be smaller
- - You need to press **F11** once the Console opens, this is meant to work in full screen
- - **WORKS BEST WITH 1080P VIDEOS**
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# OBS Scanner
- - Scans your PC Specs (CPU, GPU, RAM, Drive Speeds, Main Monitor Resolution, and Internet Speed)
- - It will **NOT** edit OBS in any way
- - It will create a .txt file in the script directory with the recommended OBS settings (in the same folder that the script is in)
- - The settings the script gives you are **not perfect** and you will need to change some things, all it does is give the baseline for what would be good to start with
- - All the settings are hardcoded in the script, based on part speeds
- - The script will take a little bit to complete, it runs an internet speed test, this takes a little bit
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# File Size Shrinker (WITHOUT FFMPEG - LESS EFFICIENT)
- - Shrink any Video, Gif, or Image, **in terms of file size**, as much as possible without changing the quality a noticible amount
- - Does not use FFMPEG, this is why it is less efficient
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,56 +48,11 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Video & Gif Converter
- - Convert Videos to Gifs, and Gifs to Videos
- - Saves the audio from video files, to use again for turning the gif back into a video
- - If there is audio matching tha name of the gif in the specified folders, then that audio will be merged with the gif into a video
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Quality Enhancer (Videos & Images) (ESRGAN)
- - Upscale & Enhance any Video, Gif, or Image by 8x **(technically 4x, but it extends 4x for width and height, so a 1080p video will be 8k)**
- - Forces media to be 60fps, if anything is under that, it will interpolate (generate) new frames with the ESRGAN AI model and FFMPEG
- - Will be updated soon with RIFE for Interpolation
- - **[THE FILES WERE TOO BIG TO UPLOAD HERE, CLICK HERE TO DOWNLOAD THE GUALITY ENHANCER](https://drive.google.com/file/d/1f8Myq8e7xgYMKbWF0vIcWvJylr2oy1kQ/view?usp=sharing)** V1.2
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Downscaler
- - Downscale any Video, Gif, or Image, you have to specify in the code by how much
- - the scaling goes by height and width, not resolution, so downscaling an 8k video by 4x will make it 1080p not 2k
- - Minimal quality loss
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# File Finder
- - An alternative (and sometimes faster) way of using windows file explorer
- - The Console will ask you for a name
- - It will create a .txt file listing all files on your pc that include that name and their directories
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# MP4 Converter
- - Turns any video into an mp4
- - Requires FFMPEG
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Frame Editor
- - Splits videos into seperate frames, and audio
- - you can do whatever you want to the frames/audio, or put your own in the specified folder
- - Merges frames and audio back into an mp4
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# FFMPEG Installed
- - Automatically installs ffmpeg to your system path
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Cuda Installer
- - Automatically downloads and installs the cuda version for your gpu
- - If there are no compatible versions it will fall back to cpu
+# YouTube Downloader
+ - The Console will ask you for a YouTube Video URL
+ - Then the Console will ask you if you want to download the video as an mp3, or an mp4
+ - The Console then downloads the video in the format you requested
+ - The Console will close when its finished
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,13 +66,6 @@
  - Will clean your server for you
  - Deletes any messages that include the words you specify in the script
  - Very easy to change
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Audio Enhancer
- - Splits audio into 4 seperate stems (bass, drums, other, vocals)
- - Enhances audio, but leaves the stems unmerged incase of bugs
- - Script installs most dependencies on first run
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
