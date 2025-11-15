@@ -5,12 +5,6 @@
  - Added more scripts for ease of use
  - Changed start files, ther is only 1 now that asks what mode you want to run
 
-# Added Audio Enhancer 9/3/25
- - Splits audio into 4 stems and enhances it
-
-# Added Discord Cleaner 5/2/25
- - Cleand your server to abide by Discord TOS to better protect your members and your server
-
 # Updated Quality Enhancer 4/11/25
  - Updated video scripts
  - Automatic cleanup
@@ -20,10 +14,6 @@
 # Added Adaptive Scaler 4/10/25
  - Added Adaptive Scaler script
  - Can scale Videos to any specified resolution
-
-# Added Cuda Installer & FFMPEG Installer 4/8/25
- - Added Cuda Installer (automatic)
- - Added FFMPEG Installer (automatic)
 
 # Updated Quality Enhancer 4/6/25
  - Updated requirements and build file for extra compatibility
@@ -41,4 +31,4 @@
  - Image, Gif, and Video support, instead of just images
  - Various optimizations
 
-# Started 4/4/25
+# Logs started on 4/4/25
