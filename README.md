@@ -11,39 +11,18 @@
  - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM**
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# AI Quality Enhancer
- - Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
- - **[Download v1.9](https://drive.google.com/file/d/1f8Myq8e7xgYMKbWF0vIcWvJylr2oy1kQ/view?usp=sharing)**
+# Media Tools
+ - [AI Quality Enhancer](https://drive.google.com/file/d/1MwVUuxgS-7ySaAyxFS7kmpfMT-ulxxFM/view?usp=sharing): Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
+ - [Simple Video Editor](https://drive.google.com/file/d/1OjbhRBnMdQdf6URu0sNAyppHEHk28Fkf/view?usp=sharing): Basic free video trimmer
+ - [Adaptive Scaler](https://drive.google.com/file/d/1__di-QRtXVteObTBpdjLGS2ep7M-7Oc2/view?usp=sharing): Scale videos to the size of your choice
+ - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality
+ - [Extreme Compressor](https://drive.google.com/file/d/1Gaq4T9nkkbnoFoM4nOQWE2q5iFZSyfcI/view?usp=sharing): Compresses media file size by a lot
+ - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert things into various ASCII animations
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Simple AI ChatBot
- - AI Chatbot for Discord
- - [Download v1.0](https://drive.google.com/file/d/1--bBF0J5DrLzVq_T8surTxAGE2s0ZVmy/view?usp=sharing)
+# Downloaders
+ - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
+ - [YouTube Video Downloader](https://drive.google.com/file/d/16Jhw78UobG1FjEtz99KBGbS_xhN7VJgC/view?usp=sharing): Download YouTube Videos
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# ASCII Converters
- - Includes 4 scripts that convert things into various ASCII animations
- - [Download v1.1](https://drive.google.com/file/d/16OHEgQCkjgbnDZ3qltw-QCuIonuEH4AO/view?usp=sharing)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# File Size Shrinker
- - Shrink videos without messing up quality
- - [Download v1.0](https://drive.google.com/file/d/1o-nkoDDntivWbHqDYmSGuHSEExaQW6iw/view?usp=sharing)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Reddit Downloader
- - Mass download media from Reddit
- - [Download v1.1](https://drive.google.com/file/d/19DOGSCd5CrkCwCZZ0_SmmCNmbKFw00vC/view?usp=sharing)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# YouTube Downloader
- - Download YouTube Videos
- - [Download v1.2](https://drive.google.com/file/d/1Ymq-fhyRni0RsyCPAvuduAq2PDECsbKK/view?usp=sharing)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Adaptive Scaler
- - Scale videos to the size of your choice
- - [Download v1.3](https://drive.google.com/file/d/1-GZBzCndNfwXih2nfN8LGJEV5s_lyJiV/view?usp=sharing)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Simple Video Editor
- - Basic free video trimmer
- - [Download v1.0](https://drive.google.com/file/d/1F8DJiJvYTYabDkXil8d6PjmDl9Mvll8p/view?usp=sharing)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Extreme Compressor
- - Compresses media file size by a lot
- - [Download v1.1](https://drive.google.com/file/d/1vDQOaArVGnvYI_ZdEDsbr2GwIQuAbHGi/view?usp=sharing)
+# Miscellaneous
+ - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
