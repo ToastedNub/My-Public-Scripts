@@ -22,7 +22,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
  - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
- - [YouTube Downloader](https://drive.google.com/file/d/1KisUCZqHC4LJH5i6UB-ulfUTC7wLgY12/view?usp=sharing): Download YouTube Videos to MP3 or MP4
+ - [YouTube Downloader](https://drive.google.com/file/d/11WOYpT75gVoJWHJp8lVz18Y-lETFLa6r/view?usp=sharing): Download YouTube Videos to MP3 or MP4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
  - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
