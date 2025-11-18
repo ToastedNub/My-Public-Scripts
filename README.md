@@ -14,7 +14,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Advanced AI Quality Enhancer](https://drive.google.com/file/d/1MwVUuxgS-7ySaAyxFS7kmpfMT-ulxxFM/view?usp=sharing): Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
- - [Simple Video Editor](https://drive.google.com/file/d/1OjbhRBnMdQdf6URu0sNAyppHEHk28Fkf/view?usp=sharing): Basic free video trimmer
+ - [Simple Video Editor](https://drive.google.com/file/d/14UzbbkBuKavcgqkIF1-ABj1cs0seLdmg/view?usp=sharing): Basic free video trimmer
  - [Adaptive Scaler](https://drive.google.com/file/d/1__di-QRtXVteObTBpdjLGS2ep7M-7Oc2/view?usp=sharing): Scale videos to the size of your choice
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality
  - [Extreme Compressor](https://drive.google.com/file/d/1Gaq4T9nkkbnoFoM4nOQWE2q5iFZSyfcI/view?usp=sharing): Compresses media file size by a lot
