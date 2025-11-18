@@ -1,8 +1,12 @@
-# Updated page 11/15/2025
+# Updated YouTube Downloader 11/18/25
+ - Updated to handle newer YouTube streams
+ - Handles new 403 errors
+
+# Updated page 11/15/25
  - More user friendly repo
  - More obvious download locations
 
-# Added Simple Video Editor
+# Added Simple Video Editor 11/14/25
  - Easy way to trim videos if you cant get an editor
 
 # Updated Quality Enhancer 11/13/25
