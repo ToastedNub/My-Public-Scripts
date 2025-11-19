@@ -12,11 +12,13 @@
  - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM**
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# AI Tools
+ - [Quality Enhancer](https://drive.google.com/file/d/1MwVUuxgS-7ySaAyxFS7kmpfMT-ulxxFM/view?usp=sharing): Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
+ - Frame Interpolator: Add frames to Videos or Gifs
+ - [Clip Maker](https://drive.google.com/file/d/1Un2RD_fYJIbMYT9UBdRzz9S6S3IIWYXg/view?usp=sharing): Automatically get clips out of your videos with custom clip settings
 # Media Tools
- - [Advanced AI Quality Enhancer](https://drive.google.com/file/d/1MwVUuxgS-7ySaAyxFS7kmpfMT-ulxxFM/view?usp=sharing): Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
  - [Simple Video Editor](https://drive.google.com/file/d/1QQBFzKGUp9fvmXZuhgzfbOKDDugzEGhf/view?usp=sharing): Basic free video trimmer
  - [Adaptive Scaler](https://drive.google.com/file/d/1__di-QRtXVteObTBpdjLGS2ep7M-7Oc2/view?usp=sharing): Scale videos to the size of your choice
- - [Clip Maker](https://drive.google.com/file/d/1Un2RD_fYJIbMYT9UBdRzz9S6S3IIWYXg/view?usp=sharing): Automatically get clips out of your videos with custom clip settings
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality
  - [Extreme Compressor](https://drive.google.com/file/d/1Gaq4T9nkkbnoFoM4nOQWE2q5iFZSyfcI/view?usp=sharing): Compresses media file size by a lot
  - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
@@ -28,29 +30,3 @@
 # Miscellaneous
  - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Cuta + TorchVision + TorchAudio
- - These are needed for some of my scripts
-# 50 Series GPUs (Ada Lovelace)
- - pip install torch==2.1.0+cu126 --index-url https://download.pytorch.org/whl/cu126
- - pip install torchvision==0.16.0+cu126 --index-url https://download.pytorch.org/whl/cu126
- - pip install torchaudio==2.1.0+cu126 --index-url https://download.pytorch.org/whl/cu126
-# 40 Series GPUs (Ampere)
- - pip install torch==2.1.0+cu126 --index-url https://download.pytorch.org/whl/cu126
- - pip install torchvision==0.16.0+cu126 --index-url https://download.pytorch.org/whl/cu126
- - pip install torchaudio==2.1.0+cu126 --index-url https://download.pytorch.org/whl/cu126
-# 30 Series GPUs (Turing)
- - pip install torch==2.1.0+cu118 --index-url https://download.pytorch.org/whl/cu118
- - pip install torchvision==0.16.0+cu118 --index-url https://download.pytorch.org/whl/cu118
- - pip install torchaudio==2.1.0+cu118 --index-url https://download.pytorch.org/whl/cu118
-# 20 Series GPUs (Pascal)
- - pip install torch==2.0.1+cu116 --index-url https://download.pytorch.org/whl/cu116
- - pip install torchvision==0.15.2+cu116 --index-url https://download.pytorch.org/whl/cu116
- - pip install torchaudio==2.0.2+cu116 --index-url https://download.pytorch.org/whl/cu116
-# 10 Series GPUs (Maxwell / Kepler)
- - pip install torch==1.13.1+cu111 --index-url https://download.pytorch.org/whl/cu111
- - pip install torchvision==0.14.1+cu111 --index-url https://download.pytorch.org/whl/cu111
- - pip install torchaudio==0.13.1+cu111 --index-url https://download.pytorch.org/whl/cu111
-# Uninstall commands to reinstall
- - pip uninstall -y torch
- - pip uninstall -y torchvision
- - pip uninstall -y torchaudio
