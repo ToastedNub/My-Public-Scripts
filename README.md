@@ -15,8 +15,8 @@
 # AI Tools
  - Cuda & Torch are required for most of the AI Tools: [Info Here](https://github.com/ToastedNub/My-Public-Scripts/blob/main/Cuda%20%26%20Torch%20Installs.md)
  - [Quality Enhancer](https://drive.google.com/file/d/1MwVUuxgS-7ySaAyxFS7kmpfMT-ulxxFM/view?usp=sharing): Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance**
- - [Frame Interpolator](https://drive.google.com/file/d/1TuUxhyDJHEFRMq5s_bzgw5M-xb3YS96-/view?usp=sharing): Add frames to Videos or Gifs
- - [Clip Maker](https://drive.google.com/file/d/1Un2RD_fYJIbMYT9UBdRzz9S6S3IIWYXg/view?usp=sharing): Automatically get clips out of your videos with custom clip settings
+ - [Frame Interpolator](https://drive.google.com/file/d/1zEuYU3Er8nRJC-UEVKKEMEYlmh3ADh6_/view?usp=sharing): Add frames to Videos or Gifs
+ - [Clip Maker](https://drive.google.com/file/d/1TjaZ10APE7QVrNQAypuq866iZkhlxYfy/view?usp=sharing): Automatically get clips out of your videos with custom clip settings
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Simple Video Editor](https://drive.google.com/file/d/1QQBFzKGUp9fvmXZuhgzfbOKDDugzEGhf/view?usp=sharing): Basic free video trimmer
