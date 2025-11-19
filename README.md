@@ -28,7 +28,10 @@
  - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
  - [YouTube Downloader](https://drive.google.com/file/d/1B7azTy-MneYO1AGufMmIodykkGVbqZ7v/view?usp=sharing): Download YouTube Videos to MP3 or MP4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Installers
+ - [Cuda & Torch Installer](https://drive.google.com/file/d/1OhTUjf_92Tb8fSzZjUTk_wgSmNdKZSha/view?usp=sharing): Installes Cuda, TorchVision, and TorchAudio, depending on your gpu
+ - [FFMPEG Installer](https://drive.google.com/file/d/1EbUm78FuCHwBN7bbl3bSs1-s9xf5nNFe/view?usp=sharing): Automatically installs FFMPEG to system path
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
  - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
- - [FFMPEG Installer](https://drive.google.com/file/d/1EbUm78FuCHwBN7bbl3bSs1-s9xf5nNFe/view?usp=sharing): Automatically installs FFMPEG to system path
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
