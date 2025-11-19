@@ -7,7 +7,7 @@
  - All of these scripts use **[PYTHON](https://www.python.org/downloads/)** and you need Python installed to PATH - **[PYTHON PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=H7iqfv5dzRY)**
  - A lot of these scripts use **[FFMPEG](https://ffmpeg.org/download.html)** and you need Ffmpeg installed to PATH - **[FFMPEG PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=JR36oH35Fgg)**
  - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
- - If you are unable to Extract the scripts, you need to download [WinRar](https://www.win-rar.com/start.html?&L=0)
+ - If you are unable to Extract the scripts, you need to download **[WinRar](https://www.win-rar.com/start.html?&L=0)**
  - **ALL SCRIPTS HAVE A "START" FILE USED TO LAUNCH THEM**
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
