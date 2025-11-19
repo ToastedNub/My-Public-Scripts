@@ -1,10 +1,8 @@
 # Cuta + TorchVision + TorchAudio
  - These are needed for some of my scripts
  - [Auto Installer & Version Checker](https://drive.google.com/file/d/1OhTUjf_92Tb8fSzZjUTk_wgSmNdKZSha/view?usp=sharing)
-# AI UPSCALER NEEDS THIS ONE
+# QUALITY ENHANCER NEEDS THIS ONE
  - pip install torch==2.1.0+cu121 torchvision==0.16.0+cu121 --index-url https://download.pytorch.org/whl/cu121
-# FRAME INTERPOLATER NEEDS THIS ONE
- - 
 # 50 Series GPUs (Ada Lovelace)
  - pip install torch==2.1.0+cu126 --index-url https://download.pytorch.org/whl/cu126
  - pip install torchvision==0.16.0+cu126 --index-url https://download.pytorch.org/whl/cu126
