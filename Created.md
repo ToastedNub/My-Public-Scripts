@@ -33,6 +33,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
  - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
- - [Extreme Compressor](https://drive.google.com/file/d/1kLKwi-digHBpyRdUyMOn-uktKGQKNXhP/view?usp=sharing): Compresses Video file size by a lot
+ - [Extreme Compressor](https://drive.google.com/file/d/1Sd6X5ZvDspjYvWM-kv3qv7NzznWmuMT_/view?usp=sharing): Compresses Video file size by a lot (more for memes)
  - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
