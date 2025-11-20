@@ -12,17 +12,17 @@
 # Media Tools
 - [DNSpy](https://github.com/dnSpy/dnSpy/releases): DLL Viewer
 - [WinDerStat](https://windirstat.net/index-selected.html): Directory Statistics
+- [x64dbg](https://x64dbg.com/): Open Source Assembly Viewer
+- [VoiceMeter](https://vb-audio.com/Voicemeeter): Virtual Audio Mixer
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
+ - [Ninite](https://ninite.com/#:~:text=Ninite%20-%20Install%20or%20Update%20Multiple%20Apps%20at%20Once): Installs multiple things at once (goot for setting up a new pc)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Installers
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
-- [x64dbg](https://x64dbg.com/): Open Source Assembly Viewer
 - [System Informer (ProcessHacker)](https://systeminformer.sourceforge.io): Better Task Manager
 - [GlassWire](https://www.glasswire.com/): Internet Traffic Monitor
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): GPU Monitor & Overclocking Tool
-- [VoiceMeter](https://vb-audio.com/Voicemeeter): Virtual Audio Mixer
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo): Storage Monitor
-- [Ninite](https://ninite.com/#:~:text=Ninite%20-%20Install%20or%20Update%20Multiple%20Apps%20at%20Once): Installs multiple things at once (goot for setting up a new pc)
 - [Open Hardware Monitor](https://openhardwaremonitor.org): Check your PC in real time
