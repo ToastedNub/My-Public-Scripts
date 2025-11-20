@@ -19,10 +19,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Simple Video Editor](https://drive.google.com/file/d/1QQBFzKGUp9fvmXZuhgzfbOKDDugzEGhf/view?usp=sharing): Basic free video trimmer
- - [Adaptive Scaler](https://drive.google.com/file/d/1__di-QRtXVteObTBpdjLGS2ep7M-7Oc2/view?usp=sharing): Scale videos to the size of your choice
+ - [Adaptive Scaler](https://drive.google.com/file/d/1tolA6yCfPn194sfZkLMCh_WbuY57mwVk/view?usp=sharing): Scale videos to the size of your choice
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality
- - [Extreme Compressor](https://drive.google.com/file/d/1kLKwi-digHBpyRdUyMOn-uktKGQKNXhP/view?usp=sharing): Compresses Video file size by a lot
- - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
  - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
@@ -34,4 +32,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
  - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
+ - [Extreme Compressor](https://drive.google.com/file/d/1kLKwi-digHBpyRdUyMOn-uktKGQKNXhP/view?usp=sharing): Compresses Video file size by a lot
+ - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
