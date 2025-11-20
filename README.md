@@ -20,7 +20,7 @@
 # Media Tools
  - [Simple Video Editor](https://drive.google.com/file/d/1QQBFzKGUp9fvmXZuhgzfbOKDDugzEGhf/view?usp=sharing): Basic free video trimmer
  - [Adaptive Scaler](https://drive.google.com/file/d/1tolA6yCfPn194sfZkLMCh_WbuY57mwVk/view?usp=sharing): Scale videos to the size of your choice
- - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality
+ - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
  - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
