@@ -21,7 +21,7 @@
  - [Simple Video Editor](https://drive.google.com/file/d/1QQBFzKGUp9fvmXZuhgzfbOKDDugzEGhf/view?usp=sharing): Basic free video trimmer
  - [Adaptive Scaler](https://drive.google.com/file/d/1__di-QRtXVteObTBpdjLGS2ep7M-7Oc2/view?usp=sharing): Scale videos to the size of your choice
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality
- - [Extreme Compressor](https://drive.google.com/file/d/1Gaq4T9nkkbnoFoM4nOQWE2q5iFZSyfcI/view?usp=sharing): Compresses media file size by a lot
+ - [Extreme Compressor](https://drive.google.com/file/d/1kLKwi-digHBpyRdUyMOn-uktKGQKNXhP/view?usp=sharing): Compresses Video file size by a lot
  - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
